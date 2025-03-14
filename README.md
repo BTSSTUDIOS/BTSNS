@@ -300,7 +300,7 @@ For more information see:
    that can inscribe. 
 
 
-2. MINTING/REGISTERING NAMES (SIMPLE REGISTRATION)
+# 2. MINTING/REGISTERING NAMES (SIMPLE REGISTRATION)
  ------------------------------------------------------
     Registering names
     Simple registration
